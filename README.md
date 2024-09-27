@@ -5,8 +5,8 @@
 
   - [Smart watering system](https://github.com/Etzeban/SmartWateringSystem)
   - [Quadcopter drone](https://github.com/Etzeban/QuadcopterDrone)
+  - [Design a bridge made of Acrylic](https://github.com/Etzeban/BridgeDesign)
   - [Design switch voltage regulator](https://github.com/Etzeban/SwitchVoltageRegulator)
-  - [Design a gravity racer](https://github.com/Etzeban/GravityRacer)
   - [Material design for a submersible](https://github.com/Etzeban/MaterialSubmersible)
 
 <h2> 🤳 Connect with me:</h2>
